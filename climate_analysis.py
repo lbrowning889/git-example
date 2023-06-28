@@ -2,7 +2,7 @@ SHIFT = 3
 COMMENT = '#'
 climate_data = open('data/sc_climate_data_10.csv', 'r')
 
-
+change
 def FahrToCelsius(fahr):
   """Converts fahrenehit to kelvin
 
